@@ -1,8 +1,8 @@
 package com.oj.ide.complier.config;
 
 /**
- * author: wm
- * date:  2017/9/23
+ * author:
+ * date:
  * desc: 配置常量
  */
 public class Constans {
